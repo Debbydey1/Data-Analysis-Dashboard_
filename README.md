@@ -19,3 +19,4 @@ The Brain Pharmaceutical Store management needs insights into sales performance,
 - Ensure correct data types (dates, currency, numbers)
 - Standardize inconsistent text formats across columns
 
+## Dashboard
