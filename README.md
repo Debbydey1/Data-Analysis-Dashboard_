@@ -10,3 +10,12 @@ The Brain Pharmaceutical Store management needs insights into sales performance,
 - How does sales performance change over time (yearly sales trend)?
 - What are the top and bottom performing products?
 - What is the total sales value across the dataset?
+
+
+## Process
+- Data Cleaning & Preparation
+- Identify and remove duplicate records
+- Handle missing values appropriately
+- Ensure correct data types (dates, currency, numbers)
+- Standardize inconsistent text formats across columns
+
