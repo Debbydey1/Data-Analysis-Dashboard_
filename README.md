@@ -10,8 +10,8 @@ The Brain Pharmaceutical Store management needs insights into sales performance,
 - How does sales performance change over time (yearly sales trend)?
 - What are the top and bottom performing products?
 - What is the total sales value across the dataset?
--<a href=”https://github.com/Debbydey1/Data-Analysis Dashboard_/blob/main/Dashboard%20Image.png”>View Dashboard</a>
-
+  
+- Dashboard Interaction <a href=”https://github.com/Debbydey1/Data-Analysis Dashboard_/blob/main/Dashboard%20Image.png”>View Dashboard</a>
 
 ## Process
 - Data Cleaning & Preparation
