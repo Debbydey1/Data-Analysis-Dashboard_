@@ -11,7 +11,7 @@ The Brain Pharmaceutical Store management needs insights into sales performance,
 - What are the top and bottom performing products?
 - What is the total sales value across the dataset?
   
-- Dashboard Interaction <a href=”https://github.com/Debbydey1/Data-Analysis-Dashboard_/blob/main/Dashboard%20Image.png”>View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Debbydey1/Data-Analysis-Dashboard_/blob/main/Dashboard%20Image.png”>View Dashboard</a>
 
 ## Process
 - Data Cleaning & Preparation
