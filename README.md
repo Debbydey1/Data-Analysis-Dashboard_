@@ -20,3 +20,4 @@ The Brain Pharmaceutical Store management needs insights into sales performance,
 - Standardize inconsistent text formats across columns
 
 ## Dashboard
+<img width="1347" height="594" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b5a147bf-85cc-483a-a95c-adf17247a056" />
